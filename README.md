@@ -1,6 +1,6 @@
 # CMDA Mid Term Website
 
-![CMDA Mid Term](https://github.com/cmda-minor-web-cases/cmda-mid-term/blob/main/assets/cmda-mid-term.png?raw=true)
+>img src="https://github.com/cmda-minor-web-cases/cmda-mid-term/blob/main/assets/cmda-mid-term.png?raw=true](https://github.com/Fabienne02/cmda-mid-term/blob/main/Assets%20rm/Header-readme.jpg" width=700>
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
