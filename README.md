@@ -10,4 +10,4 @@ Lees over mij persoonlijke process per week  <br><br>
 [Wiki](https://github.com/Fabienne02/cmda-mid-term/wiki)
 
 ## Design Rationale
-[Design Rationale](https://www.notion.so/sha-na/Meesterproef-2122-780b8c0a530049689989efe83ee8ae47](https://github.com/KaivWezel/cmda-mid-term/wiki)
+[Design Rationale](https://github.com/KaivWezel/cmda-mid-term/wiki)
